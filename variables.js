@@ -88,3 +88,5 @@ function saludo(nombre,apellido,curso){
 }
 
 console.log(saludo("Pedro","mosquera", "JAVA"))
+
+// Loca
